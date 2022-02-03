@@ -1,0 +1,25 @@
+item,condition,context,sentence,group,type,followup,correct
+2,1,this is a context,Who thinks that Matt chased the bus?,1,item,,
+3,2,this is a context,Who wonders whether Paul stole the necklace?,1,item,this is a comprehension question,yes
+1,0,this is a context,When do you think that Mary quit her job?,1,filler,,
+2,3,this is a context,What does the police officer think that Matt chased?,1,item,,
+3,4,this is a context,What does the detective wonder whether Paul stole?,1,item,this is a comprehension question,no
+1,0,this is a context,Which vegetable were you asked not to eat?,1,filler,,
+2,1,this is a context,Who thinks that Tom sold the television?,2,item,,
+3,2,this is a context,Who wonders whether Matt chased the bus?,2,item,this is a comprehension question,yes
+1,0,this is a context,When did you see Paul talking to his brother?,2,filler,,
+2,3,this is a context,What does the soldier think that Stacey wrote?,2,item,,
+3,4,this is a context,What does the police officer wonder whether Matt chased?,2,item,,
+1,0,this is a context,Where do you think Josh went for the vacation?,2,filler,this is a comprehension question,no
+2,1,this is a context,Who thinks that Casey baked the cake?,3,item,this is a comprehension question,yes
+3,2,this is a context,Who wonders whether Tom sold the television?,3,item,,
+1,0,this is a context,Which hotel did Tom think that the murder happened?,3,filler,,
+3,3,this is a context,What does the agent think that Aaron bought?,3,item,this is a comprehension question,no
+1,4,this is a context,What does the manager wonder whether Tom sold?,3,item,,
+2,0,this is a context,When does Sue think the plane will land?,3,filler,,
+3,1,this is a context,Who thinks that Heather saw the movie?,4,item,,
+1,2,this is a context,Who wonders whether Heather saw the movie?,4,item,this is a comprehension question,yes
+3,0,this is a context,Where do you think your parents got married?,4,filler,,
+1,3,this is a context,What does the teacher think that George read?,4,item,,
+2,4,this is a context,What does the soldier wonder whether Stacey wrote?,4,item,this is a comprehension question,no
+3,0,this is a context,Who do you think is famous from your hometown?,4,filler,,
