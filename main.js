@@ -61,7 +61,7 @@ newTrial("practice-1",
     defaultText.center().print()
     // Automatically print all Text elements, centered
     ,
-    newText("context-1", "<p>This is the first practice trial. A button will appear after a 3-second delay.</p>")
+    newText("context-1", "<p>This is the preamble of the first practice trial. A button will appear after a 3-second delay.</p>")
         .cssContainer({"margin-top":"2em", "margin-bottom":"2em"})
             .center()
             .print()
@@ -100,7 +100,7 @@ newTrial("practice-2",
     defaultText.center().print()
     // Automatically print all Text elements, centered
     ,
-    newText("context-2", "<p>This is the second practice trial.</p>")
+    newText("context-2", "<p>This is the preamble for the second practice trial. You might want this for assessing the effect of contexts on sentence acceptability, for instance.</p>")
         .cssContainer({"margin-top":"2em", "margin-bottom":"2em"})
             .center()
             .print()
